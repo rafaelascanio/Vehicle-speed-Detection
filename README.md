@@ -11,7 +11,7 @@ Steps performed in Jupyter Notebook
 •	We have used correlation tracker from dlib library.
 •	Speed Calculation
 •	We are calculating the distance moved by the tracked vehicle in a second, in terms of pixels, so we need pixel per meter to calculate the distance travelled in meters.
-•	With distance travelled per second in meters, we will get the speed of the vehicle.
+•	With distance travelled per second in meters, we will get the speed of the vehicle..
 
 
 ![image](https://user-images.githubusercontent.com/71623089/210834573-b98d8156-9402-4344-8c5c-d4ed680a7923.png)
