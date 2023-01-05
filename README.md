@@ -3,7 +3,7 @@ Speed detection of vehicle and its tracking plays an important role for safety o
 
 The proposed method consists of mainly three steps background subtraction, feature extraction and vehicle tracking. The speed is determined using distance travelled by vehicle over number of frames and frame rate. 
 
-                                    ![image](https://user-images.githubusercontent.com/71623089/210834394-1289c62a-3508-4b1d-a326-078dcf6e2b6c.png)
+                               
 
 Steps performed in Jupyter Notebook
 •	We are using Haarcascade classifier to identify vehicles.
