@@ -6,12 +6,12 @@ The proposed method consists of mainly three steps background subtraction, featu
                                
 
 Steps performed in Jupyter Notebook
-•	We are using Haarcascade classifier to identify vehicles.
-•	Vehicle Tracking - ( assigning IDs to vehicles 
-•	We have used correlation tracker from dlib library.
-•	Speed Calculation
-•	We are calculating the distance moved by the tracked vehicle in a second, in terms of pixels, so we need pixel per meter to calculate the distance travelled in meters.
-•	With distance travelled per second in meters, we will get the speed of the vehicle.
+1.	We are using Haarcascade classifier to identify vehicles.
+2.	Vehicle Tracking - ( assigning IDs to vehicles 
+3.  We have used correlation tracker from dlib library.
+4. 	Speed Calculation
+5. 	We are calculating the distance moved by the tracked vehicle in a second, in terms of pixels, so we need pixel per meter to calculate the distance travelled in meters.
+6. 	With distance travelled per second in meters, we will get the speed of the vehicle.
 
 
 ![image](https://user-images.githubusercontent.com/71623089/210834573-b98d8156-9402-4344-8c5c-d4ed680a7923.png)
